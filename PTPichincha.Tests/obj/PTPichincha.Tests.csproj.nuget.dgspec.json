@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Tests\\PTPichincha.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Domain\\PTPichincha.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Domain\\PTPichincha.Domain.csproj",
+        "projectName": "PTPichincha.Domain",
+        "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Domain\\PTPichincha.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dinar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj": {
+                "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Infraestructure\\PTPichincha.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Infraestructure\\PTPichincha.Infraestructure.csproj",
+        "projectName": "PTPichincha.Infraestructure",
+        "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Infraestructure\\PTPichincha.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Dinar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Domain\\PTPichincha.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Domain\\PTPichincha.Domain.csproj"
+              },
+              "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj": {
+                "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj",
+        "projectName": "PTPichincha.Models",
+        "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj",
+        "packagesPath": "C:\\Users\\Dinar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Tests\\PTPichincha.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Tests\\PTPichincha.Tests.csproj",
+        "projectName": "PTPichincha.Tests",
+        "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Tests\\PTPichincha.Tests.csproj",
+        "packagesPath": "C:\\Users\\Dinar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Infraestructure\\PTPichincha.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Infraestructure\\PTPichincha.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

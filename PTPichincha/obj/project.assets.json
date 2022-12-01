@@ -1,0 +1,149 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PTPichincha.Bussiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PTPichincha.Infraestructure": "1.0.0",
+          "PTPichincha.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PTPichincha.Bussiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PTPichincha.Bussiness.dll": {}
+        }
+      },
+      "PTPichincha.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PTPichincha.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PTPichincha.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PTPichincha.Domain.dll": {}
+        }
+      },
+      "PTPichincha.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PTPichincha.Domain": "1.0.0",
+          "PTPichincha.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PTPichincha.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PTPichincha.Infraestructure.dll": {}
+        }
+      },
+      "PTPichincha.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PTPichincha.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PTPichincha.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PTPichincha.Bussiness/1.0.0": {
+      "type": "project",
+      "path": "../PTPichincha.Bussiness/PTPichincha.Bussiness.csproj",
+      "msbuildProject": "../PTPichincha.Bussiness/PTPichincha.Bussiness.csproj"
+    },
+    "PTPichincha.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PTPichincha.Domain/PTPichincha.Domain.csproj",
+      "msbuildProject": "../PTPichincha.Domain/PTPichincha.Domain.csproj"
+    },
+    "PTPichincha.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../PTPichincha.Infraestructure/PTPichincha.Infraestructure.csproj",
+      "msbuildProject": "../PTPichincha.Infraestructure/PTPichincha.Infraestructure.csproj"
+    },
+    "PTPichincha.Models/1.0.0": {
+      "type": "project",
+      "path": "../PTPichincha.Models/PTPichincha.Models.csproj",
+      "msbuildProject": "../PTPichincha.Models/PTPichincha.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PTPichincha.Bussiness >= 1.0.0",
+      "PTPichincha.Infraestructure >= 1.0.0",
+      "PTPichincha.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dinar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha\\PTPichincha.WebAPI.csproj",
+      "projectName": "PTPichincha.WebAPI",
+      "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha\\PTPichincha.WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Dinar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Bussiness\\PTPichincha.Bussiness.csproj": {
+              "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Bussiness\\PTPichincha.Bussiness.csproj"
+            },
+            "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Infraestructure\\PTPichincha.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Infraestructure\\PTPichincha.Infraestructure.csproj"
+            },
+            "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj": {
+              "projectPath": "C:\\Users\\Dinar\\Downloads\\PTPichincha\\PTPichincha\\PTPichincha.Models\\PTPichincha.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

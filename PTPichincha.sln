@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTPichincha.WebAPI", "PTPichincha\PTPichincha.WebAPI.csproj", "{0CE59D30-5F3B-45A5-AFAC-C3610841A0D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTPichincha.Domain", "PTPichincha.Domain\PTPichincha.Domain.csproj", "{162F3FD8-BA03-41E7-B507-69D9C82A3354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTPichincha.Infraestructure", "PTPichincha.Infraestructure\PTPichincha.Infraestructure.csproj", "{49A23E45-7539-4D0A-8432-B5CC73B795E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTPichincha.Models", "PTPichincha.Models\PTPichincha.Models.csproj", "{B4A36FEF-D569-4A27-B700-8F31A10411B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTPichincha.Tests", "PTPichincha.Tests\PTPichincha.Tests.csproj", "{4CFB3A33-3FC1-433F-B987-9EA9935D0995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTPichincha.Bussiness", "PTPichincha.Bussiness\PTPichincha.Bussiness.csproj", "{A80E9BEF-89D8-492E-A231-C12FB629DDD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE59D30-5F3B-45A5-AFAC-C3610841A0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE59D30-5F3B-45A5-AFAC-C3610841A0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE59D30-5F3B-45A5-AFAC-C3610841A0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE59D30-5F3B-45A5-AFAC-C3610841A0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162F3FD8-BA03-41E7-B507-69D9C82A3354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162F3FD8-BA03-41E7-B507-69D9C82A3354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162F3FD8-BA03-41E7-B507-69D9C82A3354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162F3FD8-BA03-41E7-B507-69D9C82A3354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A23E45-7539-4D0A-8432-B5CC73B795E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A23E45-7539-4D0A-8432-B5CC73B795E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A23E45-7539-4D0A-8432-B5CC73B795E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A23E45-7539-4D0A-8432-B5CC73B795E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A36FEF-D569-4A27-B700-8F31A10411B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A36FEF-D569-4A27-B700-8F31A10411B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A36FEF-D569-4A27-B700-8F31A10411B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A36FEF-D569-4A27-B700-8F31A10411B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CFB3A33-3FC1-433F-B987-9EA9935D0995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFB3A33-3FC1-433F-B987-9EA9935D0995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFB3A33-3FC1-433F-B987-9EA9935D0995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFB3A33-3FC1-433F-B987-9EA9935D0995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80E9BEF-89D8-492E-A231-C12FB629DDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80E9BEF-89D8-492E-A231-C12FB629DDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80E9BEF-89D8-492E-A231-C12FB629DDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80E9BEF-89D8-492E-A231-C12FB629DDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984678DF-E4D9-4632-803D-2483E055A28C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\bin\Debug\net6.0\PTPichincha.Domain.deps.json
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\bin\Debug\net6.0\PTPichincha.Domain.dll
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\bin\Debug\net6.0\PTPichincha.Domain.pdb
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\PTPichincha.Domain.csproj.AssemblyReference.cache
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\PTPichincha.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\PTPichincha.Domain.AssemblyInfoInputs.cache
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\PTPichincha.Domain.AssemblyInfo.cs
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\PTPichincha.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\PTPichincha.Domain.dll
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\refint\PTPichincha.Domain.dll
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\PTPichincha.Domain.pdb
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\ref\PTPichincha.Domain.dll
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\bin\Debug\net6.0\PTPichincha.Models.dll
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\bin\Debug\net6.0\PTPichincha.Models.pdb
+C:\Users\yenny.perea\source\repos\PTPichincha\PTPichincha.Domain\obj\Debug\net6.0\PTPichincha.Domain.csproj.CopyComplete
